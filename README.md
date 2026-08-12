@@ -1,4 +1,4 @@
-# 💫 About Me:
+ 💫 About Me:
 Here’s a concise GitHub-ready version:<br><br>### 👋 About Me<br><br>I'm a **Software Engineer & Software Architect** focused on designing and building scalable, high-performance web applications and digital products.<br><br>My technical interests span **full-stack development, software architecture, AI, fintech, SaaS, APIs, automation, and cloud technologies**. I enjoy turning complex problems into clean, maintainable, and scalable solutions.<br><br>**Tech focus:**<br>`Next.js` · `React` · `TypeScript` · `JavaScript` · `Node.js` · `Python` · `REST APIs` · `PostgreSQL` · `Cloud` · `AI/LLMs` · `Fintech` `Nestjs` `Flutter` `React native` <br><br>I'm passionate about **system design, architecture, developer experience, and building products that solve real-world problems**, particularly for emerging markets.<br><br>Currently focused on becoming a stronger **software architect and product engineer** while building technology-driven products from idea to production.<br>
 
 
